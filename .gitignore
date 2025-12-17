@@ -34,5 +34,5 @@ cmh-compiled/*.html
 cmh-compiled/*.md
 !cmh-compiled/cmh-full.md
 cmh-compiled/*.sh
-!cmh-compiled/create-professional-html.sh
+!cmh-compiled/create-html.sh
 
