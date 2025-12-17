@@ -11,6 +11,9 @@ This repository contains the complete framework for the Coherence-Mediated Human
 **Date**: December 13, 2025  
 **Version**: 1.0
 
+## Full Document
+
+📄 **Read the complete document**: [CMH Framework - Full Document](https://github.com/paragon-dao/coherence-biological-physics/blob/main/cmh-compiled/cmh-full.md)
 
 ## Quick Start
 
