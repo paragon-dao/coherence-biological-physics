@@ -75,6 +75,7 @@ This work is dedicated to the public domain as of December 17, 2025. The author,
 ## Contact
 
 **Author**: Philip Trần Lưu-Phương  
+**Email**: philT@paragondao.org  
 **Institution**: Univault Technologies  
 **Date**: December 13, 2025
 
