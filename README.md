@@ -1,6 +1,6 @@
 # Coherence Biological Physics (CBP)
 
-**Coherence-Mediated Human Coupling Hypothesis (CMH): A Framework for Planetary-Scale Biological Resonance**
+A new scientific field proposing the Coherence-Mediated Human Coupling Hypothesis (CMH): A Framework for Planetary-Scale Biological Resonance
 
 ## Overview
 
@@ -48,11 +48,10 @@ cd cmh-compiled
 
 ## Key Features
 
-- ✅ **Falsifiable Hypothesis**: Every claim is testable
-- ✅ **Mathematical Framework**: Formal equations and models
-- ✅ **Experimental Roadmap**: Detailed protocols and phases
-- ✅ **Interdisciplinary**: Bridges biophysics, geophysics, quantum biology, consciousness studies
-- ✅ **Publication-Ready**: Professional formatting in HTML and Markdown
+- **Falsifiable Hypothesis**: Every claim is testable
+- **Mathematical Framework**: Formal equations and models
+- **Experimental Roadmap**: Detailed protocols and phases
+- **Interdisciplinary**: Bridges biophysics, geophysics, quantum biology, consciousness studies
 
 ## Scientific Classification
 
@@ -71,7 +70,7 @@ A Framework for Planetary-Scale Biological Resonance. Univault Technologies.
 
 ## License
 
-[To be determined - specify license]
+This work is dedicated to the public domain as of December 17, 2025. The author, Philip Trần Lưu-Phương, releases all rights to this work, allowing unrestricted use, modification, and distribution for any purpose, including commercial use, without attribution required.
 
 ## Contact
 
