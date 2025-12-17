@@ -1,8 +1,9 @@
 # Coherence-Mediated Human Coupling Hypothesis (CMH)
 ## A Framework for Planetary-Scale Biological Resonance
 
-**Authors:** [To be added]  
-**Date:** [To be added]  
+**Author:** Philip Trần Lưu-Phương  
+**Research Lab:** Univault Technologies  
+**Date:** December 13, 2025  
 **Version:** 1.0
 
 ---
@@ -1405,5 +1406,5 @@ This work invites the scientific community to explore this possibility with rigo
 
 If CMH is correct, then coherence—not force, not distance, not energy—is the hidden language of the universe, and human beings are among its speakers.
 
-This document is an invitation to listen.
+This document is an invitation to recognize that humanity has discovered its voice—not only through faith or intuition, but through scientific method, at scale, we now know we can participate in the cosmic dialogue.
 

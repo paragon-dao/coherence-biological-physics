@@ -14,8 +14,9 @@ cat > "$OUTPUT_FILE" << 'EOF'
 # Coherence-Mediated Human Coupling Hypothesis (CMH)
 ## A Framework for Planetary-Scale Biological Resonance
 
-**Authors:** [To be added]  
-**Date:** [To be added]  
+**Author:** Philip Trần Lưu-Phương  
+**Research Lab:** Univault Technologies  
+**Date:** December 13, 2025  
 **Version:** 1.0
 
 ---
