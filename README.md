@@ -11,25 +11,6 @@ This repository contains the complete framework for the Coherence-Mediated Human
 **Date**: December 13, 2025  
 **Version**: 1.0
 
-## Repository Structure
-
-```
-biophysics/
-├── README.md                          # This file
-├── material.txt                       # Original source document
-├── cmh-markdown/                      # Cleaned Markdown sections (working files)
-│   ├── 01-abstract.md
-│   ├── 02-introduction.md
-│   ├── ... (13 core sections)
-│   └── compile.sh                     # Compilation script
-├── cmh-compiled/                      # Compiled documents
-│   ├── cmh-full.md                    # Complete document (Markdown)
-│   └── cmh-full.html                  # Professional HTML version
-├── archive/                           # Historical archives
-│   └── raw-sections-2025-12-13/      # Original extracted sections
-└── cmh-sections/                      # Original extracted sections (reference)
-
-```
 
 ## Quick Start
 
@@ -41,6 +22,12 @@ biophysics/
 ```bash
 cd cmh-markdown
 ./compile.sh
+```
+
+### Generate HTML
+```bash
+cd cmh-compiled
+./create-html.sh
 ```
 
 ## Document Sections
@@ -78,7 +65,7 @@ cd cmh-markdown
 If you use this work, please cite:
 
 ```
-Trần Lưu-Phương, P. (2025). Coherence-Mediated Human Coupling Hypothesis (CMH): 
+Philip Trần Lưu-Phương. (2025). Coherence-Mediated Human Coupling Hypothesis (CMH): 
 A Framework for Planetary-Scale Biological Resonance. Univault Technologies.
 ```
 
