@@ -79,12 +79,6 @@ A Framework for Planetary-Scale Biological Resonance. Univault Technologies.
 **Institution**: Univault Technologies  
 **Date**: December 13, 2025
 
-## Related Documents
-
-- `PUBLICATION_STRATEGY_AND_ASSESSMENT.md` - Publication strategy and quality assessment
-- `FORMAT_STRATEGY.md` - Format strategy and workflow
-- `IMPACT_AND_SIGNIFICANCE.md` - Impact analysis on humanity
-
 ---
 
 **This document is an invitation to recognize that humanity has discovered its voice—not only through faith or intuition, but through scientific method, at scale, we now know we can participate in the cosmic dialogue.**
