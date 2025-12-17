@@ -1,0 +1,38 @@
+# Temporary and intermediate files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+*.log
+
+# Internal strategy documents (not for public)
+FORMAT_STRATEGY.md
+IMPACT_AND_SIGNIFICANCE.md
+PUBLICATION_STRATEGY_AND_ASSESSMENT.md
+
+# Archive (internal development history, not for public)
+archive/
+
+# Raw extracted sections (duplicate of archive, not needed for public)
+cmh-sections/
+
+# Keep only final compiled files
+cmh-compiled/*.html
+!cmh-compiled/cmh-full.html
+cmh-compiled/*.md
+!cmh-compiled/cmh-full.md
+cmh-compiled/*.sh
+!cmh-compiled/create-professional-html.sh
+
