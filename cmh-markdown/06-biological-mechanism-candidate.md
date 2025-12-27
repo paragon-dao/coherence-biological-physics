@@ -6,6 +6,8 @@ The following subsections explain why marrow is central, how the heart drives ma
 
 ![Rib cage's wave geometry around heart chamber](images/heart-chamber.png)
 
+*Rib cage's wave geometry around heart chamber*
+
 *The heart chamber and bone marrow structure represent focal points for future breakthroughs in human coupling research. This visualization reveals the intricate relationship between the cardiac system and skeletal architecture—the heart's oscillatory dynamics operating within the resonant cavities formed by bone structures, with marrow serving as the specialized medium for coherence generation and propagation.*
 
 ## 5.1 Why Bone Marrow, Not Blood
