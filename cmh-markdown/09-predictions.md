@@ -207,3 +207,7 @@ The hypothesis predicts:
 
 If even two or three of these predictions are confirmed, the hypothesis gains serious empirical footing. If none are observed, the hypothesis is falsified.
 
+
+
+
+

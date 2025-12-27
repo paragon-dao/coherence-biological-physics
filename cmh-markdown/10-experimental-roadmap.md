@@ -202,3 +202,7 @@ Compare onboard marrow-coherence proxies with Earth-based baselines and look for
 
 This roadmap is intentionally conservative and rigorous. CMH predicts small, delicate effects in noisy systems; detecting them requires meticulous instrumentation, stringent controls, and honest statistical practice. That is the only robust path to meaningful results that the broader scientific community will accept.
 
+
+
+
+

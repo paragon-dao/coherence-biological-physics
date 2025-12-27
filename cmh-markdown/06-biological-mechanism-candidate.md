@@ -4,6 +4,10 @@ To ground the Coherence-Mediated Human Coupling Hypothesis (CMH) in plausible bi
 
 The following subsections explain why marrow is central, how the heart drives marrow waves, and why strict thermal precision is essential.
 
+![Rib cage's wave geometry around heart chamber](images/heart-chamber.png)
+
+*The heart chamber and bone marrow structure represent focal points for future breakthroughs in human coupling research. This visualization reveals the intricate relationship between the cardiac system and skeletal architecture—the heart's oscillatory dynamics operating within the resonant cavities formed by bone structures, with marrow serving as the specialized medium for coherence generation and propagation.*
+
 ## 5.1 Why Bone Marrow, Not Blood
 
 Bone marrow differs from blood in ways that make it a far better candidate for sustained, low-dissipation wave phenomena:
@@ -86,4 +90,8 @@ These provide concrete experimental handles to test the marrow-centered model.
 
 5. **In vitro marrow analog experiments**
    - Create confined viscous suspensions in resonant cavities with periodic forcing to study conditions allowing long-lived vortices and electromechanical transduction; map sensitivity to small temperature changes.
+
+
+
+
 

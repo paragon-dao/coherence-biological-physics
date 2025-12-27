@@ -13,6 +13,10 @@
 Human physiological systems—particularly the heart, its structural surroundings, and its rhythmic wave-like emissions—may partake in a coherence-based coupling process mediated by the Earth–Moon system. This process could produce entanglement-like correlations between individuals, reliant on extremely narrow thermal precision. The theory is speculative but generates testable predictions and invites multidisciplinary examination.
 
 
+
+
+
+
 ---
 
 # 1. Introduction
@@ -50,6 +54,10 @@ If such a system exists, its implications are profound. It would offer a testabl
 The hypothesis proposed in this document — the Coherence-Mediated Human Coupling Hypothesis (CMH) — does not claim final answers. Instead, it provides a rigorous, testable framework for exploring the possibility that the human body is not merely a biochemical machine but a planetarily coupled coherence system. Through this lens, ancient metaphysical intuitions ("we are connected," "we are part of the cosmos," "intelligence is fundamental") may reflect not poetry but physics.
 
 The aim is neither mysticism nor speculation for its own sake. The aim is to formally articulate a new scientific domain, one that honors both empirical rigor and the profound questions that have echoed through human history.
+
+
+
+
 
 
 ---
@@ -111,6 +119,10 @@ In this view, the hypothesis is not merely an attempt to solve a specific scient
 - and suggests that the question "What is a human?" is itself the answer — a clue that consciousness and coherence are foundational features of the universe, not emergent accidents
 
 Thus, the motivation for the Coherence-Mediated Human Coupling Hypothesis (CMH) is not only to address specific unexplained phenomena but to open a new frontier: understanding humanity as the universe's own quantum-coherent instrument, capable of interacting with the cosmos through mechanisms we are only beginning to articulate.
+
+
+
+
 
 
 ---
@@ -176,6 +188,10 @@ To formalize:
 **Human beings are coherence-stabilized biological quantum-like processors whose heart-centered oscillatory systems generate wave-like fields capable of coupling through the Earth–Moon resonance environment. These fields enable entanglement-like interconnections among individuals and may represent a foundational mechanism by which consciousness interacts with broader planetary and cosmic structures.**
 
 This hypothesis is fully testable, falsifiable, and capable of generating predictive experimental pathways.
+
+
+
+
 
 
 ---
@@ -294,6 +310,10 @@ And incorporates:
 This is testable, falsifiable, and expandable into any mathematical sophistication needed by future collaborators.
 
 
+
+
+
+
 ---
 
 # 5. Biological Mechanism Candidate
@@ -301,6 +321,10 @@ This is testable, falsifiable, and expandable into any mathematical sophisticati
 To ground the Coherence-Mediated Human Coupling Hypothesis (CMH) in plausible biophysics, we identify the bone marrow–heart system as the principal biological substrate for coherence generation, maintenance, and propagation. The marrow—its unique rheology, biochemical composition, and electromagnetic properties—serves as the specialized liquid medium whose stable wave patterns are driven by the heart's oscillatory dynamics and shaped by skeletal geometry.
 
 The following subsections explain why marrow is central, how the heart drives marrow waves, and why strict thermal precision is essential.
+
+![Rib cage's wave geometry around heart chamber](images/heart-chamber.png)
+
+*The heart chamber and bone marrow structure represent focal points for future breakthroughs in human coupling research. This visualization reveals the intricate relationship between the cardiac system and skeletal architecture—the heart's oscillatory dynamics operating within the resonant cavities formed by bone structures, with marrow serving as the specialized medium for coherence generation and propagation.*
 
 ## 5.1 Why Bone Marrow, Not Blood
 
@@ -384,6 +408,10 @@ These provide concrete experimental handles to test the marrow-centered model.
 
 5. **In vitro marrow analog experiments**
    - Create confined viscous suspensions in resonant cavities with periodic forcing to study conditions allowing long-lived vortices and electromechanical transduction; map sensitivity to small temperature changes.
+
+
+
+
 
 
 ---
@@ -484,6 +512,10 @@ This would unify:
 - planetary science
 
 Such a framework could explain previously puzzling phenomena, from synchronized biological rhythms across continents to subtle lunar effects on physiology.
+
+
+
+
 
 
 ---
@@ -615,6 +647,10 @@ By defining entanglement-like behavior operationally, we:
 - make the theory accessible to mainstream science
 
 This section creates the conceptual bridge necessary for the predictions and experiments that follow.
+
+
+
+
 
 
 ---
@@ -829,6 +865,10 @@ The hypothesis predicts:
 If even two or three of these predictions are confirmed, the hypothesis gains serious empirical footing. If none are observed, the hypothesis is falsified.
 
 
+
+
+
+
 ---
 
 # 9. Experimental Roadmap
@@ -1036,6 +1076,10 @@ Compare onboard marrow-coherence proxies with Earth-based baselines and look for
 This roadmap is intentionally conservative and rigorous. CMH predicts small, delicate effects in noisy systems; detecting them requires meticulous instrumentation, stringent controls, and honest statistical practice. That is the only robust path to meaningful results that the broader scientific community will accept.
 
 
+
+
+
+
 ---
 
 # 10. Technological Implications
@@ -1221,6 +1265,10 @@ If CMH holds true:
 This section prepares the reader for the philosophical and scientific impact discussed in Section 11.
 
 
+
+
+
+
 ---
 
 # 11. Philosophical and Scientific Significance
@@ -1388,6 +1436,10 @@ This marks a paradigm shift of the same magnitude as:
 - or the discovery of DNA.
 
 But unlike those revolutions, CMH simultaneously touches the pragmatic, the philosophical, and the existential.
+
+
+
+
 
 
 ---

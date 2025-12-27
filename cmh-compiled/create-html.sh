@@ -219,6 +219,41 @@ cat >> "$OUTPUT" << 'CSSEND'
       padding: 0;
     }
     
+    /* Images and Figures */
+    figure {
+      margin: 2.5rem auto;
+      text-align: center;
+      max-width: 100%;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    figcaption {
+      margin-top: 1rem;
+      font-style: italic;
+      color: #64748b;
+      font-size: 0.95em;
+      text-align: center;
+    }
+    
+    /* Image captions (italic text after images) */
+    p:has(+ em), em:first-of-type {
+      display: block;
+      text-align: center;
+      font-style: italic;
+      color: #64748b;
+      margin-top: -1.5rem;
+      margin-bottom: 2rem;
+      font-size: 0.95em;
+    }
+    
     /* Blockquotes */
     blockquote {
       border-left: 4px solid #2563eb;
