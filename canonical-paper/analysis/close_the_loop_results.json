@@ -1,0 +1,96 @@
+{
+  "theta": {
+    "n": 31,
+    "results": {
+      "mean_r~sync_perf": {
+        "pearson_r": -0.005841473825505612,
+        "pearson_p": 0.9751199278881717,
+        "spearman_rho": -0.01693548387096774,
+        "spearman_p": 0.9279501281173965,
+        "n": 31
+      },
+      "mean_r~joint_agency": {
+        "pearson_r": -0.25971513578957234,
+        "pearson_p": 0.15825774762186076,
+        "spearman_rho": -0.24344495728174492,
+        "spearman_p": 0.18693497429207917,
+        "n": 31
+      },
+      "breathing~sync_perf": {
+        "pearson_r": -0.18373489894630815,
+        "pearson_p": 0.322462601223642,
+        "spearman_rho": -0.21008064516129035,
+        "spearman_p": 0.2566571759390197,
+        "n": 31
+      },
+      "breathing~joint_agency": {
+        "pearson_r": -0.03885679718180309,
+        "pearson_p": 0.835593559594849,
+        "spearman_rho": -0.17930618643203913,
+        "spearman_p": 0.3344640651252483,
+        "n": 31
+      },
+      "tempo_power~sync_perf": {
+        "pearson_r": 0.3748534289030888,
+        "pearson_p": 0.03773016483119446,
+        "spearman_rho": 0.25685483870967746,
+        "spearman_p": 0.16305538630281863,
+        "n": 31
+      },
+      "tempo_power~joint_agency": {
+        "pearson_r": 0.07658531938822079,
+        "pearson_p": 0.6821812832305791,
+        "spearman_rho": 0.195038337772533,
+        "spearman_p": 0.2930557201630158,
+        "n": 31
+      }
+    }
+  },
+  "mu_alpha": {
+    "n": 31,
+    "results": {
+      "mean_r~sync_perf": {
+        "pearson_r": 0.008504471239936999,
+        "pearson_p": 0.9637838844656857,
+        "spearman_rho": 0.10524193548387097,
+        "spearman_p": 0.5731276749168948,
+        "n": 31
+      },
+      "mean_r~joint_agency": {
+        "pearson_r": 0.008328255108987468,
+        "pearson_p": 0.9645338239334021,
+        "spearman_rho": -0.006655910182516638,
+        "spearman_p": 0.9716523695118647,
+        "n": 31
+      },
+      "breathing~sync_perf": {
+        "pearson_r": -0.09016556484730578,
+        "pearson_p": 0.6295395636616788,
+        "spearman_rho": -0.04798387096774194,
+        "spearman_p": 0.7976948393884296,
+        "n": 31
+      },
+      "breathing~joint_agency": {
+        "pearson_r": 0.09850374346312404,
+        "pearson_p": 0.5980597479147014,
+        "spearman_rho": 0.028237194713706948,
+        "spearman_p": 0.8801436534273608,
+        "n": 31
+      },
+      "tempo_power~sync_perf": {
+        "pearson_r": 0.057344358242372294,
+        "pearson_p": 0.759291340709648,
+        "spearman_rho": 0.02620967741935484,
+        "spearman_p": 0.8886945514139857,
+        "n": 31
+      },
+      "tempo_power~joint_agency": {
+        "pearson_r": 0.2139238067382154,
+        "pearson_p": 0.24785744546125263,
+        "spearman_rho": 0.20835015813756624,
+        "spearman_p": 0.2606857349323718,
+        "n": 31
+      }
+    }
+  }
+}

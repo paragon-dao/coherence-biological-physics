@@ -1,0 +1,2310 @@
+{
+  "real": [
+    {
+      "mean_r": 0.2553227411933808,
+      "breathing": 0.09481083766729874,
+      "rhythmicity": 0.8389345953532981,
+      "npts": 634,
+      "rec": "Recording01",
+      "dyad": "Dyad01",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.1907189798960242,
+      "breathing": 0.1531417586660869,
+      "rhythmicity": 0.8254111348320022,
+      "npts": 593,
+      "rec": "Recording01",
+      "dyad": "Dyad01",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.037975126767673485,
+      "breathing": 0.09966758868356584,
+      "rhythmicity": 0.8114371651150286,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.056576547355847155,
+      "breathing": 0.11678427412787112,
+      "rhythmicity": 0.8107874293517097,
+      "npts": 584,
+      "rec": "Recording01",
+      "dyad": "Dyad02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.12727078543877207,
+      "breathing": 0.11854622020202439,
+      "rhythmicity": 0.8475219684845555,
+      "npts": 587,
+      "rec": "Recording01",
+      "dyad": "Dyad03",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0051254479942467925,
+      "breathing": 0.10604633140058645,
+      "rhythmicity": 0.8408927344424421,
+      "npts": 589,
+      "rec": "Recording01",
+      "dyad": "Dyad03",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.03666193382247829,
+      "breathing": 0.13836288451509313,
+      "rhythmicity": 0.8363890661106091,
+      "npts": 584,
+      "rec": "Recording01",
+      "dyad": "Dyad04",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.5921278809822627,
+      "breathing": 0.1584535100249104,
+      "rhythmicity": 0.8421038509830162,
+      "npts": 587,
+      "rec": "Recording01",
+      "dyad": "Dyad04",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.3663831499643292,
+      "breathing": 0.1421116530070873,
+      "rhythmicity": 0.8141934209081606,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad05",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.4178549755092102,
+      "breathing": 0.18070380823329987,
+      "rhythmicity": 0.8113467605635438,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad05",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.5011822610636423,
+      "breathing": 0.11831772795170531,
+      "rhythmicity": 0.8106455478128388,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad06",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.6518808878105616,
+      "breathing": 0.13860859677737267,
+      "rhythmicity": 0.8243521956035622,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad06",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.34939005527743355,
+      "breathing": 0.13163876397520985,
+      "rhythmicity": 0.7758913252887538,
+      "npts": 586,
+      "rec": "Recording01",
+      "dyad": "Dyad07",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.253141295801185,
+      "breathing": 0.14480956193651667,
+      "rhythmicity": 0.7865987743562186,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad07",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.30197012790703365,
+      "breathing": 0.16362555398111844,
+      "rhythmicity": 0.8230569412371539,
+      "npts": 589,
+      "rec": "Recording01",
+      "dyad": "Dyad08",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.1624619436706751,
+      "breathing": 0.1731302213142,
+      "rhythmicity": 0.8306549243937178,
+      "npts": 585,
+      "rec": "Recording01",
+      "dyad": "Dyad08",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.3845560681829779,
+      "breathing": 0.20378498283885274,
+      "rhythmicity": 0.7982745237011295,
+      "npts": 605,
+      "rec": "Recording02",
+      "dyad": "Dyad01",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.5161292455867725,
+      "breathing": 0.24593932545578082,
+      "rhythmicity": 0.8102555553240617,
+      "npts": 597,
+      "rec": "Recording02",
+      "dyad": "Dyad01",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.8175394203742087,
+      "breathing": 0.1426111849610524,
+      "rhythmicity": 0.8334056518699734,
+      "npts": 593,
+      "rec": "Recording02",
+      "dyad": "Dyad02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.6213219099972379,
+      "breathing": 0.2018084713425353,
+      "rhythmicity": 0.8409892549928267,
+      "npts": 597,
+      "rec": "Recording02",
+      "dyad": "Dyad02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.2967263303714622,
+      "breathing": 0.27493505240607063,
+      "rhythmicity": 0.8380434301456465,
+      "npts": 655,
+      "rec": "Recording02",
+      "dyad": "Dyad03",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.29291206016899207,
+      "breathing": 0.2538133256619799,
+      "rhythmicity": 0.7815474953424253,
+      "npts": 587,
+      "rec": "Recording02",
+      "dyad": "Dyad03",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.04803573825623657,
+      "breathing": 0.09224328236319197,
+      "rhythmicity": 0.7670129061362028,
+      "npts": 595,
+      "rec": "Recording02",
+      "dyad": "Dyad04",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0024263797584810143,
+      "breathing": 0.10028267629960662,
+      "rhythmicity": 0.8397189638015897,
+      "npts": 604,
+      "rec": "Recording02",
+      "dyad": "Dyad04",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.001443919877235332,
+      "breathing": 0.10671518675772255,
+      "rhythmicity": 0.8135130628836956,
+      "npts": 601,
+      "rec": "Recording02",
+      "dyad": "Dyad05",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.31138087905395384,
+      "breathing": 0.16741570120374394,
+      "rhythmicity": 0.8363033126283299,
+      "npts": 594,
+      "rec": "Recording02",
+      "dyad": "Dyad05",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.21945680232042997,
+      "breathing": 0.1462129659361117,
+      "rhythmicity": 0.7874119698231855,
+      "npts": 590,
+      "rec": "Recording02",
+      "dyad": "Dyad06",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.20587375786653786,
+      "breathing": 0.1750953538145542,
+      "rhythmicity": 0.8694432262001646,
+      "npts": 589,
+      "rec": "Recording02",
+      "dyad": "Dyad06",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.008501902242809412,
+      "breathing": 0.1011255584478816,
+      "rhythmicity": 0.8276399969183731,
+      "npts": 599,
+      "rec": "Recording02",
+      "dyad": "Dyad07",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.15148397674347172,
+      "breathing": 0.15832952015664917,
+      "rhythmicity": 0.8436984436627777,
+      "npts": 649,
+      "rec": "Recording02",
+      "dyad": "Dyad07",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.21722474272205794,
+      "breathing": 0.1809499292484007,
+      "rhythmicity": 0.8339931444021326,
+      "npts": 585,
+      "rec": "Recording02",
+      "dyad": "Dyad08",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.34848511658177367,
+      "breathing": 0.21568410953260597,
+      "rhythmicity": 0.7717731176370008,
+      "npts": 598,
+      "rec": "Recording02",
+      "dyad": "Dyad08",
+      "task": "Task04"
+    }
+  ],
+  "surrogate": [
+    {
+      "mean_r": -0.006546358387323598,
+      "breathing": 0.10437975238216873,
+      "rhythmicity": 0.8610247566256823,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.006233815986336887,
+      "breathing": 0.09102957195090698,
+      "rhythmicity": 0.8500842062683919,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.012197391115627568,
+      "breathing": 0.08096398532429991,
+      "rhythmicity": 0.7787161945801959,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01794800224078178,
+      "breathing": 0.07796975646665356,
+      "rhythmicity": 0.7789473492968199,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.011538772133475343,
+      "breathing": 0.09197548578950233,
+      "rhythmicity": 0.8411836842755783,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.020096510173298988,
+      "breathing": 0.08963459310424994,
+      "rhythmicity": 0.8362771117842465,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.01270842409732549,
+      "breathing": 0.09382458537724044,
+      "rhythmicity": 0.8105079235704631,
+      "npts": 589,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.007434430497408511,
+      "breathing": 0.08755959173464531,
+      "rhythmicity": 0.7875893503844019,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.001282890761121552,
+      "breathing": 0.09634808513827249,
+      "rhythmicity": 0.8038838787094899,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0006734278146550238,
+      "breathing": 0.09337489922964771,
+      "rhythmicity": 0.7963498430186288,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0004011021715996481,
+      "breathing": 0.0941499359319548,
+      "rhythmicity": 0.8029581511546318,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 7.512674811380491e-05,
+      "breathing": 0.08451421431324146,
+      "rhythmicity": 0.8269827842016897,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.004134547632712779,
+      "breathing": 0.08505878000772125,
+      "rhythmicity": 0.7542121891641943,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.003869275209143592,
+      "breathing": 0.08362156458628794,
+      "rhythmicity": 0.8083510987553425,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.00031940382844597513,
+      "breathing": 0.09609930799792608,
+      "rhythmicity": 0.8113077765126715,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.006711337483427879,
+      "breathing": 0.09378096756392394,
+      "rhythmicity": 0.8254860468844949,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0018902594754009747,
+      "breathing": 0.08386141408698926,
+      "rhythmicity": 0.7385097844309815,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.014938522959341402,
+      "breathing": 0.07049221616297344,
+      "rhythmicity": 0.7704654807475534,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0029616118957520644,
+      "breathing": 0.07813134976494103,
+      "rhythmicity": 0.8241838649087435,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.00479208890557468,
+      "breathing": 0.08433854086512121,
+      "rhythmicity": 0.7772190073745905,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.006981054261222925,
+      "breathing": 0.08741778297987148,
+      "rhythmicity": 0.8271362391365376,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.015222332735946439,
+      "breathing": 0.13338038121905713,
+      "rhythmicity": 0.8165873746054636,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.04008492002249428,
+      "breathing": 0.14859834308761632,
+      "rhythmicity": 0.8600900725070567,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.026553659250283454,
+      "breathing": 0.12897533504861539,
+      "rhythmicity": 0.8099035277205825,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0266403613817116,
+      "breathing": 0.12049976116837148,
+      "rhythmicity": 0.8423764704279807,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0030266961107889147,
+      "breathing": 0.15228027225307647,
+      "rhythmicity": 0.8744960970286568,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.019981025182954134,
+      "breathing": 0.15931389327916542,
+      "rhythmicity": 0.7429408947687255,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.009565980233646663,
+      "breathing": 0.13908080302919992,
+      "rhythmicity": 0.8470988041897153,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0015677504739433727,
+      "breathing": 0.12170372994589977,
+      "rhythmicity": 0.7989093082638882,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.008462971039865621,
+      "breathing": 0.14240128576401623,
+      "rhythmicity": 0.7872265965114796,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.02654329829181039,
+      "breathing": 0.11995366019624915,
+      "rhythmicity": 0.7703319226908111,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.004144750106712772,
+      "breathing": 0.13478010662241155,
+      "rhythmicity": 0.8022126046202379,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.013248730736164534,
+      "breathing": 0.12834041603255972,
+      "rhythmicity": 0.8008069498554031,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.01672777824153118,
+      "breathing": 0.1378423460345234,
+      "rhythmicity": 0.7829377080179549,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.021263118905189286,
+      "breathing": 0.14383804649549783,
+      "rhythmicity": 0.8144636541581562,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.004314285983953645,
+      "breathing": 0.12573242554318997,
+      "rhythmicity": 0.8031440318238107,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.008098307472987088,
+      "breathing": 0.13105936510681787,
+      "rhythmicity": 0.7501280682910996,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.002298582102848045,
+      "breathing": 0.12635226308551142,
+      "rhythmicity": 0.818737049436616,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.01541633722477303,
+      "breathing": 0.1449149982490729,
+      "rhythmicity": 0.861496713697397,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.02420282604236626,
+      "breathing": 0.12761731327010647,
+      "rhythmicity": 0.8166316927361379,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.04255520368999194,
+      "breathing": 0.13204186643298296,
+      "rhythmicity": 0.8175873905088095,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.02184991508973348,
+      "breathing": 0.11652487023175125,
+      "rhythmicity": 0.7755965631505523,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.03429882607299248,
+      "breathing": 0.14762524699805382,
+      "rhythmicity": 0.8604867934910979,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.011904229761460262,
+      "breathing": 0.13252719620785178,
+      "rhythmicity": 0.8510103126911825,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.017582902507874726,
+      "breathing": 0.1270240686128567,
+      "rhythmicity": 0.8574461894414275,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.012420913796595642,
+      "breathing": 0.15023509428888335,
+      "rhythmicity": 0.8402663926536643,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.004236336086543573,
+      "breathing": 0.1306912182522252,
+      "rhythmicity": 0.7803218688631214,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.03370543055310929,
+      "breathing": 0.13676701542527842,
+      "rhythmicity": 0.8216996141043045,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.02749314473438875,
+      "breathing": 0.13434724679898905,
+      "rhythmicity": 0.7880979195811763,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.019053368145116302,
+      "breathing": 0.13156129097057187,
+      "rhythmicity": 0.8334004413950378,
+      "npts": 589,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.011486570717301246,
+      "breathing": 0.1390323752382797,
+      "rhythmicity": 0.8489036232472686,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.011739282010813307,
+      "breathing": 0.1283008448076271,
+      "rhythmicity": 0.7803064896256323,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.03646429266093812,
+      "breathing": 0.13381076172784317,
+      "rhythmicity": 0.8517163003621678,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01853705050947283,
+      "breathing": 0.11045854702191273,
+      "rhythmicity": 0.7741811467892893,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.026479984460563065,
+      "breathing": 0.12918075740725996,
+      "rhythmicity": 0.8292165622541652,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.04083057269275712,
+      "breathing": 0.1287021977659597,
+      "rhythmicity": 0.7638285277326479,
+      "npts": 586,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.008570091244886073,
+      "breathing": 0.07851616321461248,
+      "rhythmicity": 0.7705327157980673,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.008338436137034631,
+      "breathing": 0.09233054920903695,
+      "rhythmicity": 0.8302191288134603,
+      "npts": 589,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.01078563086516373,
+      "breathing": 0.08501247019360647,
+      "rhythmicity": 0.8079486433166166,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.006148994572926807,
+      "breathing": 0.09541058528445716,
+      "rhythmicity": 0.8535395093253949,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.013084451777254652,
+      "breathing": 0.09443130263170284,
+      "rhythmicity": 0.8199523094392005,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.027702863120222198,
+      "breathing": 0.10672192683230733,
+      "rhythmicity": 0.8501129530204966,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.008454884945865127,
+      "breathing": 0.09291385123131383,
+      "rhythmicity": 0.8033325508008102,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad01P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0014076564827260707,
+      "breathing": 0.08768107206835896,
+      "rhythmicity": 0.8056770146132369,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.006577537505715599,
+      "breathing": 0.11545098833371895,
+      "rhythmicity": 0.8838363218395658,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.02317223786849194,
+      "breathing": 0.09038926004842852,
+      "rhythmicity": 0.7647197401861974,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.007370022757698001,
+      "breathing": 0.0951418105635833,
+      "rhythmicity": 0.83832653425876,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.004631003270203664,
+      "breathing": 0.09487976028435316,
+      "rhythmicity": 0.7647020451439621,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.0037342014465812532,
+      "breathing": 0.090501673685835,
+      "rhythmicity": 0.7899739691332714,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.012564656619991637,
+      "breathing": 0.0855815000182964,
+      "rhythmicity": 0.752954344537762,
+      "npts": 584,
+      "rec": "Recording01",
+      "pair": "Dyad02P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.005935737165909772,
+      "breathing": 0.10487164334746528,
+      "rhythmicity": 0.8480357599656315,
+      "npts": 589,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.008264695981030806,
+      "breathing": 0.0847165786842782,
+      "rhythmicity": 0.7852141184013823,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.008063572124940932,
+      "breathing": 0.07640838424527797,
+      "rhythmicity": 0.8114440100440363,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.007313840045297912,
+      "breathing": 0.09541561710466173,
+      "rhythmicity": 0.8147523655158696,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.00874402952529907,
+      "breathing": 0.09635453482079924,
+      "rhythmicity": 0.8218669126607557,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.005053859862578434,
+      "breathing": 0.08059023927245593,
+      "rhythmicity": 0.7753952368749912,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.014224426129704636,
+      "breathing": 0.11579266936358,
+      "rhythmicity": 0.8473006803923633,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad03P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.01233575643219119,
+      "breathing": 0.12080989840378215,
+      "rhythmicity": 0.80860378577345,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0037237948419385964,
+      "breathing": 0.150728915756478,
+      "rhythmicity": 0.7664178476326079,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.03420658884409106,
+      "breathing": 0.1553041440404181,
+      "rhythmicity": 0.8145669623210479,
+      "npts": 587,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.04563940269125476,
+      "breathing": 0.13969197489128266,
+      "rhythmicity": 0.8302276232466498,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.00632468807070067,
+      "breathing": 0.14072193154791307,
+      "rhythmicity": 0.7806561782537458,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0027103730053861757,
+      "breathing": 0.13044965909386938,
+      "rhythmicity": 0.8136176233892024,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.022671431991506518,
+      "breathing": 0.12417413662397261,
+      "rhythmicity": 0.8172080335490444,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad04P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.029083583016208274,
+      "breathing": 0.136837571509038,
+      "rhythmicity": 0.7803372985453918,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.0049020775666380285,
+      "breathing": 0.1390335750488382,
+      "rhythmicity": 0.8224426202076045,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.033568027910799915,
+      "breathing": 0.14813149640099021,
+      "rhythmicity": 0.8109209417137836,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.024598802854421262,
+      "breathing": 0.1517784852886115,
+      "rhythmicity": 0.7845062970356205,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.033327319142990225,
+      "breathing": 0.14438623936420542,
+      "rhythmicity": 0.8654763961190074,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.02577129911958572,
+      "breathing": 0.12761930044367226,
+      "rhythmicity": 0.8321891801124095,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.009437576697767203,
+      "breathing": 0.12573768525208562,
+      "rhythmicity": 0.7713385074981286,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad05P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.008272910531469979,
+      "breathing": 0.13315362678524922,
+      "rhythmicity": 0.8236154172877576,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.000502032498841777,
+      "breathing": 0.13505717842369797,
+      "rhythmicity": 0.7591431144403314,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.016240907796721212,
+      "breathing": 0.1670904135567294,
+      "rhythmicity": 0.8208389867076112,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0018694087761025383,
+      "breathing": 0.1345716911723427,
+      "rhythmicity": 0.7974177991598349,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.027491258391249725,
+      "breathing": 0.12894266993900605,
+      "rhythmicity": 0.8458693539597132,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.046536211912416935,
+      "breathing": 0.12150911651596388,
+      "rhythmicity": 0.8042704451415913,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.026968561764647937,
+      "breathing": 0.13935852974318624,
+      "rhythmicity": 0.8081268770190514,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad06P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0373217290248756,
+      "breathing": 0.12972576018259782,
+      "rhythmicity": 0.7844243494246834,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.016502354930023846,
+      "breathing": 0.14399175264761288,
+      "rhythmicity": 0.7773279521025369,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.03147060940422801,
+      "breathing": 0.13859448926426693,
+      "rhythmicity": 0.8228490434807139,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.006868400502741933,
+      "breathing": 0.1269797487758819,
+      "rhythmicity": 0.8249004265810692,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.02440762689208102,
+      "breathing": 0.11027813457985286,
+      "rhythmicity": 0.7900504617693436,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.015518146565307556,
+      "breathing": 0.12781580693770953,
+      "rhythmicity": 0.789880378897216,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.004343728630761799,
+      "breathing": 0.132018376220763,
+      "rhythmicity": 0.836648678618354,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad07P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.013597715917348518,
+      "breathing": 0.12032933666521073,
+      "rhythmicity": 0.8125929826924536,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.014613981958609997,
+      "breathing": 0.11640049023418295,
+      "rhythmicity": 0.8206860449341564,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.002265024013465307,
+      "breathing": 0.14225245965945352,
+      "rhythmicity": 0.8344921103406088,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.02469320476316195,
+      "breathing": 0.13869014319138787,
+      "rhythmicity": 0.7993822446610981,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.030257781252452685,
+      "breathing": 0.1528476010161741,
+      "rhythmicity": 0.8714066342232117,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0008685205552916179,
+      "breathing": 0.14847164126174184,
+      "rhythmicity": 0.8363037872482544,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0027285439941487043,
+      "breathing": 0.129704383179568,
+      "rhythmicity": 0.8167692387662759,
+      "npts": 585,
+      "rec": "Recording01",
+      "pair": "Dyad08P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.026925029531346737,
+      "breathing": 0.13376984141024517,
+      "rhythmicity": 0.8369597836866586,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.004040744333694536,
+      "breathing": 0.11603307283843386,
+      "rhythmicity": 0.7531761862281415,
+      "npts": 605,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.023610607599672862,
+      "breathing": 0.1349430507019859,
+      "rhythmicity": 0.8225915302409319,
+      "npts": 596,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.01373369076299786,
+      "breathing": 0.13783601590439234,
+      "rhythmicity": 0.8216616225126815,
+      "npts": 603,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.030405755305876844,
+      "breathing": 0.12333239998324393,
+      "rhythmicity": 0.825609225026056,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0015053620440485165,
+      "breathing": 0.13768049426139783,
+      "rhythmicity": 0.812721628921497,
+      "npts": 600,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.032655288436733904,
+      "breathing": 0.13693055192635684,
+      "rhythmicity": 0.835009212850267,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.014740625225861939,
+      "breathing": 0.15468297226616196,
+      "rhythmicity": 0.8373786727982636,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0064629411206198065,
+      "breathing": 0.1548670942524278,
+      "rhythmicity": 0.7562330324784324,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.010548136974538772,
+      "breathing": 0.1381688677936181,
+      "rhythmicity": 0.797283446684626,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.020391801319190845,
+      "breathing": 0.1469091849199838,
+      "rhythmicity": 0.8288939270653399,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.004630395405595619,
+      "breathing": 0.11729142342759745,
+      "rhythmicity": 0.7905743982792662,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.014989194392458525,
+      "breathing": 0.12743924618201372,
+      "rhythmicity": 0.7983470045777997,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.010991472922649483,
+      "breathing": 0.119576393784645,
+      "rhythmicity": 0.7827002718163044,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.010740843091621405,
+      "breathing": 0.12183393690587334,
+      "rhythmicity": 0.7980573463236066,
+      "npts": 605,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.04717534101469463,
+      "breathing": 0.11945274552196163,
+      "rhythmicity": 0.7570745012387967,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.023108293834358487,
+      "breathing": 0.13195476338714665,
+      "rhythmicity": 0.7987697604328936,
+      "npts": 596,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.020769465106246356,
+      "breathing": 0.13350969260910467,
+      "rhythmicity": 0.8256582416907011,
+      "npts": 603,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.013067976835137966,
+      "breathing": 0.1464749273969492,
+      "rhythmicity": 0.8080683814748714,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.013300171980257732,
+      "breathing": 0.14385668647451036,
+      "rhythmicity": 0.8004002647110947,
+      "npts": 600,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.02630682244294526,
+      "breathing": 0.12998940963814995,
+      "rhythmicity": 0.7730143104160161,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.028627600117029115,
+      "breathing": 0.10386890735372178,
+      "rhythmicity": 0.7670053004847087,
+      "npts": 595,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0014402499055892425,
+      "breathing": 0.1042208389971158,
+      "rhythmicity": 0.8200899827823883,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.013252938856513087,
+      "breathing": 0.10489180986503653,
+      "rhythmicity": 0.8506758154734071,
+      "npts": 595,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01171590369895303,
+      "breathing": 0.08980306903040726,
+      "rhythmicity": 0.7826008419357353,
+      "npts": 595,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.038697082334872256,
+      "breathing": 0.08988872149426162,
+      "rhythmicity": 0.761249010601478,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0021816415101298765,
+      "breathing": 0.09988716145960728,
+      "rhythmicity": 0.8027782391865353,
+      "npts": 595,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.004867951788979083,
+      "breathing": 0.10201680207564472,
+      "rhythmicity": 0.8440524340798133,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.02727731244491389,
+      "breathing": 0.1125882563354657,
+      "rhythmicity": 0.8236259820717683,
+      "npts": 601,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.007071653513861649,
+      "breathing": 0.09826686585244024,
+      "rhythmicity": 0.801757494755026,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0030220018460091055,
+      "breathing": 0.11345905489669011,
+      "rhythmicity": 0.776524315057928,
+      "npts": 601,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.01042047637143244,
+      "breathing": 0.10704877987846377,
+      "rhythmicity": 0.7893090709445587,
+      "npts": 596,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0018920574990622945,
+      "breathing": 0.09440012287327926,
+      "rhythmicity": 0.7565970829668873,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.004747748134298616,
+      "breathing": 0.10600155146609809,
+      "rhythmicity": 0.849508459588615,
+      "npts": 600,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.0006180448633642914,
+      "breathing": 0.09306279037123781,
+      "rhythmicity": 0.8519578681799636,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.00793951826424534,
+      "breathing": 0.1129429155383912,
+      "rhythmicity": 0.8435767207265342,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01112238932374644,
+      "breathing": 0.08636291687406931,
+      "rhythmicity": 0.7897103935663989,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.00041908064152802613,
+      "breathing": 0.10780958237432034,
+      "rhythmicity": 0.811459862933966,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01811313939639067,
+      "breathing": 0.10514055585775034,
+      "rhythmicity": 0.8097426105839306,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.017874873826694112,
+      "breathing": 0.10423717280492911,
+      "rhythmicity": 0.8618019924863255,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.002965954509880871,
+      "breathing": 0.10281230939844449,
+      "rhythmicity": 0.8076075221171402,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.014686844856232029,
+      "breathing": 0.10482833652866498,
+      "rhythmicity": 0.8400051679304593,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01981252764647078,
+      "breathing": 0.09083660786437928,
+      "rhythmicity": 0.7610550395231213,
+      "npts": 599,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.032228262147207934,
+      "breathing": 0.11167237930035347,
+      "rhythmicity": 0.8128397659692186,
+      "npts": 593,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.03850881297975683,
+      "breathing": 0.09602223331607922,
+      "rhythmicity": 0.7709846988969681,
+      "npts": 599,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0146831089412137,
+      "breathing": 0.08407954480892461,
+      "rhythmicity": 0.8164699047473772,
+      "npts": 596,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.020785750316253685,
+      "breathing": 0.10329341665046063,
+      "rhythmicity": 0.7986868434537872,
+      "npts": 599,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.011045506250418153,
+      "breathing": 0.0950221172415222,
+      "rhythmicity": 0.7879839395972356,
+      "npts": 590,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.01062018366437957,
+      "breathing": 0.09805564889742129,
+      "rhythmicity": 0.8437182769871561,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad08P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.019631309824309256,
+      "breathing": 0.1598481981021357,
+      "rhythmicity": 0.8403433747025869,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad01P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.025552688294814066,
+      "breathing": 0.1426726860603074,
+      "rhythmicity": 0.8366162603078436,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad02P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.01807350385119685,
+      "breathing": 0.12125110337117476,
+      "rhythmicity": 0.7888803627562718,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad03P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.013759693176354976,
+      "breathing": 0.11407067832197645,
+      "rhythmicity": 0.8068004117303429,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad04P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.036480250631309094,
+      "breathing": 0.15061511851067097,
+      "rhythmicity": 0.8624139576032321,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad05P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.035504061950576,
+      "breathing": 0.14967796483051138,
+      "rhythmicity": 0.8129510446100378,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad06P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": 0.026569185536192894,
+      "breathing": 0.1334384348416928,
+      "rhythmicity": 0.791132544505065,
+      "npts": 585,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad07P02",
+      "task": "Task03"
+    },
+    {
+      "mean_r": -0.0065152273510984205,
+      "breathing": 0.14157086212786354,
+      "rhythmicity": 0.8685518769122539,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.015372609229460137,
+      "breathing": 0.14968462456276643,
+      "rhythmicity": 0.7821018971821249,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.006296015617274583,
+      "breathing": 0.12545202609014242,
+      "rhythmicity": 0.8275552119200205,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.05956366663227124,
+      "breathing": 0.1452972457700669,
+      "rhythmicity": 0.844566381198681,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.010900870638411837,
+      "breathing": 0.12331682012813704,
+      "rhythmicity": 0.7918879803578401,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.009138030397089145,
+      "breathing": 0.15242049315465703,
+      "rhythmicity": 0.7863811628054636,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.005539426545418265,
+      "breathing": 0.1281073287145082,
+      "rhythmicity": 0.8198862721519864,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad01P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.027060595407522967,
+      "breathing": 0.15707787477309607,
+      "rhythmicity": 0.8290318336775608,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.012511264804731727,
+      "breathing": 0.1450710307337127,
+      "rhythmicity": 0.8125675656671857,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.005302677397003251,
+      "breathing": 0.14093269681444187,
+      "rhythmicity": 0.805683115597142,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.02391243509207759,
+      "breathing": 0.1211708373240505,
+      "rhythmicity": 0.8194431262378703,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.02738956537035535,
+      "breathing": 0.11731050364271756,
+      "rhythmicity": 0.7141691626105262,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.006051136347126156,
+      "breathing": 0.13974604488817055,
+      "rhythmicity": 0.7734201087713568,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.016401199609656712,
+      "breathing": 0.11664659279045143,
+      "rhythmicity": 0.7438318529077533,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad02P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.02898539244685881,
+      "breathing": 0.14236664231327378,
+      "rhythmicity": 0.8060856708079226,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.028504891857783966,
+      "breathing": 0.13533996248326877,
+      "rhythmicity": 0.8184688077671509,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.010445866556590902,
+      "breathing": 0.1453895357190672,
+      "rhythmicity": 0.8240428152753335,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.03515906823951463,
+      "breathing": 0.1181366731285014,
+      "rhythmicity": 0.8042248888099943,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.003612594909901918,
+      "breathing": 0.12013347297558953,
+      "rhythmicity": 0.7400685028897689,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.005510776951787008,
+      "breathing": 0.13309852524607124,
+      "rhythmicity": 0.7817051499483081,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.0010082259705388981,
+      "breathing": 0.13436024284043466,
+      "rhythmicity": 0.831074029286818,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad03P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.012960859073530622,
+      "breathing": 0.10473131547152788,
+      "rhythmicity": 0.8266707024274202,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.014896715170408362,
+      "breathing": 0.10126057481240115,
+      "rhythmicity": 0.8016120858869675,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.001223236081364767,
+      "breathing": 0.11849664341385906,
+      "rhythmicity": 0.8216476090663105,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.007225527774717947,
+      "breathing": 0.08251145644763556,
+      "rhythmicity": 0.7895667360437494,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.017771013274971423,
+      "breathing": 0.11685486193931416,
+      "rhythmicity": 0.7962582321377365,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.008910460296444878,
+      "breathing": 0.09932232439311701,
+      "rhythmicity": 0.8174795313947654,
+      "npts": 604,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.02319718112307201,
+      "breathing": 0.11510661675621937,
+      "rhythmicity": 0.8112711287401344,
+      "npts": 598,
+      "rec": "Recording02",
+      "pair": "Dyad04P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.024431548482793233,
+      "breathing": 0.10011069076814923,
+      "rhythmicity": 0.7784235220432307,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.013868712600363608,
+      "breathing": 0.11129641984907082,
+      "rhythmicity": 0.8348294329550281,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.0029279062015261847,
+      "breathing": 0.14051204954432708,
+      "rhythmicity": 0.8176293409751579,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.000627474456664344,
+      "breathing": 0.1227625522330913,
+      "rhythmicity": 0.8314244102099336,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.0058549440794603445,
+      "breathing": 0.13073042079652178,
+      "rhythmicity": 0.8485023546730676,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.007826379415389583,
+      "breathing": 0.11405540306540148,
+      "rhythmicity": 0.8340358087619041,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.02431458046707112,
+      "breathing": 0.10307309773359119,
+      "rhythmicity": 0.7980970078753681,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad05P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.014785252789844404,
+      "breathing": 0.11533891847811456,
+      "rhythmicity": 0.8483091218547043,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.0036928416326390177,
+      "breathing": 0.10406907082241383,
+      "rhythmicity": 0.7718268306508055,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.017586550708094263,
+      "breathing": 0.10284960297791934,
+      "rhythmicity": 0.7911548273899192,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.02275056156964508,
+      "breathing": 0.10979597276951435,
+      "rhythmicity": 0.8575185247668772,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -5.146019681454652e-05,
+      "breathing": 0.0935103226918271,
+      "rhythmicity": 0.774654323658847,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.009112997144514813,
+      "breathing": 0.08682667543155742,
+      "rhythmicity": 0.7099104447484855,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad07P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.022130940614289746,
+      "breathing": 0.1073370160148832,
+      "rhythmicity": 0.7895257169293339,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad06P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.017395112054406525,
+      "breathing": 0.08790149226276964,
+      "rhythmicity": 0.7650432596103663,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.017719993478454227,
+      "breathing": 0.10429968229257017,
+      "rhythmicity": 0.7948300750542683,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.021494791184268208,
+      "breathing": 0.11230633862061952,
+      "rhythmicity": 0.7826884810897267,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.004888677407371444,
+      "breathing": 0.09707235766876475,
+      "rhythmicity": 0.7683305136445243,
+      "npts": 612,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.007892231380829222,
+      "breathing": 0.1030296669067781,
+      "rhythmicity": 0.8228408080315962,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.0023760084590977062,
+      "breathing": 0.10019832137910929,
+      "rhythmicity": 0.7573276820418363,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.024986826724958163,
+      "breathing": 0.10729192120699486,
+      "rhythmicity": 0.8163387484644558,
+      "npts": 598,
+      "rec": "Recording02",
+      "pair": "Dyad07P01-Dyad08P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.04076498991527951,
+      "breathing": 0.14101776406072367,
+      "rhythmicity": 0.8069113211027699,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad01P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.023035646179928995,
+      "breathing": 0.12910236625625734,
+      "rhythmicity": 0.7995977077636715,
+      "npts": 597,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad02P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": 0.014808379931712171,
+      "breathing": 0.17180802165567913,
+      "rhythmicity": 0.8138675027654043,
+      "npts": 587,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad03P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.015858501994440406,
+      "breathing": 0.12586572831611567,
+      "rhythmicity": 0.794271676548492,
+      "npts": 598,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad04P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.01841252439178011,
+      "breathing": 0.15457482555290858,
+      "rhythmicity": 0.780861125726066,
+      "npts": 594,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad05P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.012201372690404227,
+      "breathing": 0.14329111800754427,
+      "rhythmicity": 0.8037345768681056,
+      "npts": 589,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad06P02",
+      "task": "Task04"
+    },
+    {
+      "mean_r": -0.04185075840979526,
+      "breathing": 0.1197135770219692,
+      "rhythmicity": 0.7907002508706371,
+      "npts": 598,
+      "rec": "Recording02",
+      "pair": "Dyad08P01-Dyad07P02",
+      "task": "Task04"
+    }
+  ]
+}
